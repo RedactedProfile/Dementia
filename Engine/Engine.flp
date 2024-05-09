@@ -1,0 +1,27 @@
+﻿<flash_project name="Engine" version="1">
+    <project_folder name="as" expanded="true">
+        <project_file path="./as/common.as" filetype="as" />
+        <project_file path="./as/playMedia.as" filetype="as" />
+        <project_file path="./as/globals.as" filetype="as" />
+        <project_file path="./as/includes.as" filetype="as" />
+        <project_file path="./as/soundHandling.as" filetype="as" />
+        <project_file path="./as/console.as" filetype="as" />
+        <project_file path="./as/rules.as" filetype="as" />
+    </project_folder>
+    <project_folder name="Maps" expanded="true">
+        <project_folder name="dem0" expanded="true">
+            <project_folder name="assets" expanded="true">
+                <project_file path="../Game/Maps/dem0/assets/globals.as" filetype="as" />
+                <project_file path="../Game/Maps/dem0/assets/ai.as" filetype="as" />
+                <project_file path="../Game/Maps/dem0/assets/lolaccel.as" filetype="as" />
+                <project_file path="../Game/Maps/dem0/assets/gamelogic.as" filetype="as" />
+                <project_file path="../Game/Maps/dem0/assets/levelGenerator.as" filetype="as" />
+            </project_folder>
+            <project_file path="../Game/Maps/dem0/dem0.fla" filetype="fla" profile="" />
+        </project_folder>
+        <project_folder name="mainMenu" expanded="true">
+            <project_file path="../Game/Maps/mainMenu/mainMenu.fla" filetype="fla" profile="" />
+        </project_folder>
+    </project_folder>
+    <project_file path="./engine.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>

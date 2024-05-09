@@ -1,0 +1,5 @@
+<menu font="Arial" bg="transBG" title="Paused...">
+	<button label="Resume" function="resumeGame" ui="menuButton" x="150" y="150" />
+	<button label="Save Progress" function="saveGame" ui="menuButton" x="150" y="200" />
+	<button label="Quit Game" function="mainMenu" ui="menuButton" x="150" y="250" />
+</menu>

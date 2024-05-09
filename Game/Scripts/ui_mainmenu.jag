@@ -1,0 +1,5 @@
+<!-- titleAtt syntax: "HexColour,fontsize,x,y,width,height" -->
+<menu font="Arial" bg="menuBG.jpg" music="demo" title="Hello Josh, This is Configurable" titleAtt="FFFFFF,25,15,15,500,100">
+	<button label="Launch Game" func="launchGame" ui="menuButton.png" x="25" y="175" />
+	<button label="Quit Game" func="quitGame" ui="menuButton.png" x="25" y="200" />
+</menu>

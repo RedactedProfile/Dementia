@@ -1,0 +1,4 @@
+<menu font="Arial" bg="gameOverAnimation.swf" title="Game Over">
+	<button label="Retry" function="retryLevel" ui="menuButton" x="150" y="150" />
+	<button label="Main Menu" function="mainMenu" ui="menuButton" x="150" y="200" />
+</menu>

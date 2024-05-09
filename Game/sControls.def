@@ -1,0 +1,9 @@
+<!-- Special Configurable Controls -->
+<config>
+	<control func="gunPistol" 	control="1" 		secControl="[" 			/>
+	<control func="gunUzi" 		control="2" 		secControl="]" 			/>
+	<control func="gunShotgun" 	control="3" 		secControl="\" 			/>
+	<control func="melee" 		control="SPACE"		secControl="TAB" 		/>
+	<control func="console"		control="`"			secControl="0"			/>
+	<control func="pause"		control="ESC"		secControl="p"			/>
+</config>

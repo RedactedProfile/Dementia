@@ -1,0 +1,15 @@
+<!-- 
+The Demo level is a very simple one, this is essential scratch pad for engine testing
+ -->
+<level title="Demo" time="inf" src="demoBlock" >
+	<!-- Tile 1 is a basic starting ground with a spawn point -->
+	<tile id="1" src="1" />
+	<!-- Tile 2 is the same as Tile 1 so we reuse it -->
+	<tile id="2" src="1" />
+	<!-- Tile 3 is Tile 1 again but this time with an item spawned, so we need an item name as well as where we want to place it -->
+	<tile id="3" src="1" item="demoItem" itemX="25" itemY="0" />
+	<!-- Tile 4 is a different tile that has a slope -->
+	<tile id="4" src="2" />
+	<!-- Tile 5 is the same as Tile 1 but attaches it to the bottom of the slope -->
+	<tile id="5" src="1" />
+</level>

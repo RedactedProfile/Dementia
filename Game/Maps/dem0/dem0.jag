@@ -1,0 +1,7 @@
+<jag>
+	<enemy type="Jihadist" spawnTile="" maxHealth="100" health="100" maxArmor="0" armor="0" maxStamina="100" stamina="100" immunities="" />
+	<wait time="200" />
+	<enemy type="Zombie" maxHealth="100" health="100" maxArmor="0" armor="0" maxStamina="100" stamina="100" immunities="" />
+	<wait time="100" />
+	<enemy type="shooter" maxHealth="100" health="100" maxArmor="0" armor="0" maxStamina="100" stamina="100" immunities="" />
+</jag>

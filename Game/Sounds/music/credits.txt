@@ -1,0 +1,9 @@
+menuMusic = Mega Man X2 - Flame Stag - DarKsidE555, NG
+
+victory = Victory Fanfar 2 - afliXion, NG
+
+credits = Still Alive Radio Remix - John Coulton
+
+shitty_techno = dunno
+
+Fail = Wheel of Fortune

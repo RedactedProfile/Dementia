@@ -1,0 +1,4 @@
+<menu font="Arial" bg="menuBG" title="Dementia">
+	<button label="Launch Game" function="launchGame" ui="menuButton" x="150" y="150" />
+	<button label="Quit Game" function="quitGame" ui="menuButton" x="150" y="200" />
+</menu>
